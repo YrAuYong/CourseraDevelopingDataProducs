@@ -4,6 +4,8 @@
 
 **Shiny app link**: https://yuriauyong.shinyapps.io/wk3Proj
 
+**Slidify app description presentation link**: http://yrauyong.github.io/Mortgage-Calculator-App-Slidify/index.html
+
 **Author**: Yuri Au Yong
 
 **Application Last Update Date**: 27th December 2015
