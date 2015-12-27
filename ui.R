@@ -125,7 +125,7 @@ shinyUI(
       h4("OverView:"),
       p("This application is a coursework project for the Developing Data Product module of the Coursera Data Science Specialisation. Mortgage calculation is based on formulas found in http://www.hughcalc.org/formula.php where mortgages are compounded monthly. The calculations have been tested randomly up to property value $8.5million with variations of other input values."),
       h4("Author:"), p(" Yuri Au Yong"),
-      h4("Application Last Update Date:"), p(" 25th December 2015"),
+      h4("Application Last Update Date:"), p(" 27th December 2015"),
       h4("Disclaimer:"), p(" This Application is meant to give a fair estimate on mortages payments and may not be 100% accurate.")
     )
   )  
